@@ -3,9 +3,14 @@
 
 ## 2026-02-25:
 
+### WIP:
+
 - Viewers have expressed concerns about losing 30 years of data. Maybe a separate video on backing up should be considered.
-- There is a high demand of practical transition guides. What would that look like?
+- There is a high demand of **practical transition guides**. What would that look like?
 - I plan on making a dual-boot video, as well as an complete install video soon.
+
+---
+
 - I will make a video that focuses on software for Linux. 
 - My viewers like beginner-friendly tutorials.
 - I think they percieve that my New York accent is the same as a Tik Tok voiceover that is used on their videos. This is my natural-speaking voice. I cannot change this, and I'm not going to try. When I do a "about me" video, maybe that will explain it for them.
